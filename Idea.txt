@@ -1,0 +1,6 @@
+Multiplayer competitive game
+players "move" with wasd and ijkl
+players try to gain the most points / get to a set ammount as quickly as possible
+players create boxes that generate points every second(bigger box more points)
+where players cross tile is considered dead.
+if theres a line of dead from one side to the other the game is over
